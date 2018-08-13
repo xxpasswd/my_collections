@@ -8,7 +8,9 @@
       <li @click="other"><router-link tag="li" to="/other"><a :class="{active:is_other}">其他收藏</a></router-link></li>
     </ul>
   </div>
+  <div id="router">
   <router-view/>
+  </div>
 </div>
 </template>
 
@@ -60,6 +62,11 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(73, 71, 71);
+    position: fixed;
+    width: 100%;
+    top:0;
+    height: 50px;
+
 }
 
 li {
@@ -80,5 +87,8 @@ li a:hover {
 
 .active {
     background-color: #4CAF50;
+}
+#router{
+  margin-top: 60px;
 }
 </style>

@@ -20,11 +20,6 @@
   <div id="nav-bar">
 		<table cellspacing="6px">
 			<tbody>
-				<tr>
-					<th>
-						<a href="#app">Home</a>
-					</th>
-				</tr>
                 <tr v-for="(nav_list,key) in nav_dict" :key="nav_list">
                     <th>
                         <a :href= "'#'+key" target="_self">{{key}}</a>
