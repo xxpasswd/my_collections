@@ -5,6 +5,8 @@ import Mix from '@/components/Mix'
 import Skill from '@/components/Skill'
 import SkillBase from '@/components/skill_components/SkillBase'
 import Base from '@/components/skill_components/Base'
+import Front from '@/components/skill_components/Front'
+import Backend from '@/components/skill_components/Backend'
 
 
 Vue.use(Router)
@@ -36,6 +38,14 @@ export default new Router({
               path: '/skill/skill_base',
               component: SkillBase
             },
+            {
+              path: '/skill/front',
+              component: Front,
+            },
+            {
+              path: '/skill/backend',
+              component: Backend
+            }
           ]
         },
         {
