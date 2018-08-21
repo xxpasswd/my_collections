@@ -2,9 +2,9 @@
     <div>
     <h2>编程语言：python</h2>
     <ul>
-        <li><a>1.《python核心编程》</a></li>
-        <li><a href="http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html">2.《python cookbook》</a></li>
-        <li><a>2.《fluent python》</a></li>    
+        <li><a>《python核心编程》</a></li>
+        <li><a href="http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html">《python cookbook》</a></li>
+        <li><a>《fluent python》</a></li>
     </ul>
      <h2>算法与数据结构</h2>
      <ul>
@@ -12,8 +12,8 @@
      </ul>
      <h2>计算机网络</h2>
      <ul>
-         <li><a href="">tcp/ip</a></li>
-         <li><a href="">http</a></li>
+         <li><a>tcp/ip相关的知识</a></li>
+         <li><a>《图解http协议》</a></li>
      </ul>
      <h2>Linux系统</h2>
      <ul>

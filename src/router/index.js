@@ -4,9 +4,10 @@ import HelloWorld from '@/components/HelloWorld'
 import Mix from '@/components/Mix'
 import Skill from '@/components/Skill'
 import SkillBase from '@/components/skill_components/SkillBase'
-import Base from '@/components/skill_components/Base'
+import All from '@/components/skill_components/All'
 import Front from '@/components/skill_components/Front'
 import Backend from '@/components/skill_components/Backend'
+import Other from '@/components/skill_components/Other'
 
 
 Vue.use(Router)
@@ -32,7 +33,7 @@ export default new Router({
           children: [
             {
               path: '/skill',
-              component: Base
+              component: All
             },
             {
               path: '/skill/skill_base',
@@ -45,6 +46,10 @@ export default new Router({
             {
               path: '/skill/backend',
               component: Backend
+            },
+            {
+              path: '/skill/other',
+              component: Other
             }
           ]
         },
