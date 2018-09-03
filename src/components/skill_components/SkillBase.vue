@@ -20,6 +20,7 @@
          <li><a href="https://linuxtools-rst.readthedocs.io/zh_CN/latest/">linux工具快速教程</a></li>
      </ul>
      <h2>数据库</h2>
+        <li><a>《mysql必知必会》</a></li>
      <h2>版本控制</h2>
      <ul>
          <li><a href="https://git-scm.com/book/en/v2">《Progit》</a></li>
