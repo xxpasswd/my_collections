@@ -6,8 +6,10 @@
             <li><a href="http://www.django-rest-framework.org/">django-restframework</a></li>
         </ul>
         <h2>flask框架</h2>
-        <li><a href="https://www.ctolib.com/topics-134642.html">flask web入门教程</a></li>
-        <li><a href="http://flask.pocoo.org/">flask 官网</a></li>
+        <ul>
+          <li><a href="https://www.ctolib.com/topics-134642.html">flask web入门教程</a></li>
+          <li><a href="http://flask.pocoo.org/">flask 官网</a></li>
+        </ul>
     </div>
 </template>
 
