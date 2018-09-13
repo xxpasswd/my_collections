@@ -50,7 +50,7 @@ export default {
                     ['https://github.com/vinta/awesome-python','Awesome-python']
                     ],
                 '博客学习':[
-                    ['https://wz.cnblogs.com/','博客园'],
+                    ['http://www.cnblogs.com/time-read/','博客园'],
                     ['http://www.jobbole.com/bookmark/','伯乐在线'],
                     ['https://drive.wps.cn/','WPS'],
                     ['https://github.com/xxpasswd','GitHub'],
