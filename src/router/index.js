@@ -9,6 +9,7 @@ import Front from '@/components/skill_components/Front'
 import Backend from '@/components/skill_components/Backend'
 import Other from '@/components/skill_components/Other'
 import Database from '@/components/skill_components/Database'
+import Tools from '@/components/Tools'
 
 
 Vue.use(Router)
@@ -57,6 +58,10 @@ export default new Router({
               component: Other
             }
           ]
+        },
+        {
+          path: '/tools',
+          component: Tools
         },
         {
           path: '/other'
