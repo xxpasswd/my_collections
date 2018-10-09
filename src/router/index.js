@@ -9,6 +9,7 @@ import Front from '@/components/skill_components/Front'
 import Backend from '@/components/skill_components/Backend'
 import Other from '@/components/skill_components/Other'
 import Database from '@/components/skill_components/Database'
+import Deploy from '@/components/skill_components/Deploy'
 import Tools from '@/components/Tools'
 
 
@@ -52,6 +53,10 @@ export default new Router({
             {
               path: '/skill/database',
               component: Database
+            },
+            {
+              path: '/skill/deploy',
+              component: Deploy
             },
             {
               path: '/skill/other',

@@ -6,7 +6,7 @@
          <li><router-link tag="li" to="/skill/front"><a>前端</a></router-link></li>
          <li><router-link tag="li" to="/skill/backend"><a>后端</a></router-link></li>
          <li><router-link tag="li" to="/skill/database"><a>数据库</a></router-link></li>
-         <li><router-link tag="li" to="/skill/backend"><a>服务器部署</a></router-link></li>
+         <li><router-link tag="li" to="/skill/deploy"><a>服务器部署</a></router-link></li>
          <li><router-link tag="li" to="/skill/other"><a>其他</a></router-link></li>
       </ul>
       <div id="skill_detail">
