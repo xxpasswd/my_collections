@@ -23,6 +23,7 @@ export default {
             tools_dict:[
                     ['http://click.pocoo.org/dev/','click'],
                     ['http://docs.python-requests.org/en/master/','requests'],
+                    ['http://docs.paramiko.org/en/stable/api/client.html','ssh,sftp']
                     ]
                 }
             }  
