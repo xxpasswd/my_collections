@@ -11,6 +11,7 @@ import Other from '@/components/skill_components/Other'
 import Database from '@/components/skill_components/Database'
 import Deploy from '@/components/skill_components/Deploy'
 import Tools from '@/components/Tools'
+import Home from '@/components/Home'
 
 
 Vue.use(Router)
@@ -72,7 +73,8 @@ export default new Router({
           path: '/other'
         },
         {
-          path: '/home'
+          path: '/home',
+          component: Home
         }
       ]
     }
