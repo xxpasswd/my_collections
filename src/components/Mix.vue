@@ -48,6 +48,7 @@ export default {
                     ['https://www.ichunqiu.com/company/qad/show','企安店'],
                     ['https://www.imooc.com/learn/9','html/css基础'],
                     ['https://github.com/vinta/awesome-python','Awesome-python']
+                    ['https://python-web-study.readthedocs.io/zh_CN/latest/','python web 学习']
                     ],
                 '博客学习':[
                     ['http://www.cnblogs.com/time-read/','博客园'],
@@ -74,6 +75,7 @@ export default {
                     ],
                 '其他':[
                     ['https://www.processon.com/diagrams','proccess on'],
+                    ['https://readthedocs.org/dashboard/','readthedoc']
                     ],
                     }
                 }
