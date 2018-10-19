@@ -47,7 +47,7 @@ export default {
                     ['http://www.runoob.com/','菜鸟教程'],
                     ['https://www.ichunqiu.com/company/qad/show','企安店'],
                     ['https://www.imooc.com/learn/9','html/css基础'],
-                    ['https://github.com/vinta/awesome-python','Awesome-python']
+                    ['https://github.com/vinta/awesome-python','Awesome-python'],
                     ['https://python-web-study.readthedocs.io/zh_CN/latest/','python web 学习']
                     ],
                 '博客学习':[
