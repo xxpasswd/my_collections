@@ -75,7 +75,8 @@ export default {
                     ],
                 '其他':[
                     ['https://www.processon.com/diagrams','proccess on'],
-                    ['https://readthedocs.org/dashboard/','readthedoc']
+                    ['https://readthedocs.org/dashboard/','readthedoc'],
+                    ['https://fly.layui.com/store/','前端模板']
                     ],
                     }
                 }
