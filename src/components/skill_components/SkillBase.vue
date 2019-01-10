@@ -9,7 +9,7 @@
     </ul>
      <h2>算法与数据结构</h2>
      <ul>
-         <li><a>算法与数据结构</a></li>
+         <li><a href="http://interactivepython.org/runestone/static/pythonds/index.html">算法与数据结构</a></li>
      </ul>
      <h2>计算机网络</h2>
      <ul>
