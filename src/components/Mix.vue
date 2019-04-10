@@ -76,7 +76,8 @@ export default {
                 '其他':[
                     ['https://www.processon.com/diagrams','proccess on'],
                     ['https://readthedocs.org/dashboard/','readthedoc'],
-                    ['https://fly.layui.com/store/','前端模板']
+                    ['https://fly.layui.com/store/','前端模板'],
+                    ['https://www.cs.usfca.edu/~galles/visualization/Algorithms.html','Data Structure visulization']
                     ],
                     }
                 }
