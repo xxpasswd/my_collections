@@ -12,6 +12,7 @@ import Database from '@/components/skill_components/Database'
 import Deploy from '@/components/skill_components/Deploy'
 import Tools from '@/components/Tools'
 import Home from '@/components/Home'
+import Spider from '@/components/skill_components/Spider'
 
 
 Vue.use(Router)
@@ -50,6 +51,10 @@ export default new Router({
             {
               path: '/skill/backend',
               component: Backend
+            },
+            {
+              path: '/skill/spider',
+              component: Spider
             },
             {
               path: '/skill/database',

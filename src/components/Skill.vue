@@ -5,6 +5,7 @@
          <li><router-link tag="li" to="/skill/skill_base"><a>入门基础</a></router-link></li>
          <li><router-link tag="li" to="/skill/front"><a>前端</a></router-link></li>
          <li><router-link tag="li" to="/skill/backend"><a>后端</a></router-link></li>
+         <li><router-link tag="li" to="/skill/spider"><a>爬虫</a></router-link></li>
          <li><router-link tag="li" to="/skill/database"><a>数据库</a></router-link></li>
          <li><router-link tag="li" to="/skill/deploy"><a>服务器部署</a></router-link></li>
          <li><router-link tag="li" to="/skill/other"><a>其他</a></router-link></li>
