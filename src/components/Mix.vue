@@ -71,7 +71,8 @@ export default {
                     ['http://python-web-guide.readthedocs.io/zh/latest/index.html','python web guide'],
                     ['http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html','python cookbook'],
                     ['https://www.lfd.uci.edu/~gohlke/pythonlibs/','python package for windows'],
-                    ['http://www.zlovezl.cn/articles/python-using-variables-well/','python变量命名技巧']
+                    ['http://www.zlovezl.cn/articles/python-using-variables-well/','python变量命名技巧'],
+                    ['http://ccbv.co.uk/', 'Django CBV']
                     ],
                 '其他':[
                     ['https://www.processon.com/diagrams','proccess on'],
