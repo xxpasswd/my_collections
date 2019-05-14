@@ -53,9 +53,11 @@ export default {
                 '博客学习':[
                     ['http://www.cnblogs.com/time-read/','博客园'],
                     ['http://www.jobbole.com/bookmark/','伯乐在线'],
-                    ['https://drive.wps.cn/','WPS'],
-                    ['https://github.com/xxpasswd','GitHub'],
                     ['https://www.zhihu.com/','知乎'],
+                    ['https://juejin.im/timeline', '掘金'],
+                    ['https://www.jianshu.com/', '简书'],
+                    ['https://github.com/xxpasswd','GitHub'],
+                    ['https://drive.wps.cn/','WPS'],
                     ['https://github.com/xxpasswd?tab=stars','github stars'],
                     ['http://www.pythontip.com/','python Tip'],
                     ['https://note.youdao.com/','有道云笔记']
