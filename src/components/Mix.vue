@@ -58,6 +58,7 @@ export default {
                     ['https://www.jianshu.com/', '简书'],
                     ['https://github.com/xxpasswd','GitHub'],
                     ['https://drive.wps.cn/','WPS'],
+                    ['https://github.com/xxpasswd?tab=repositories', 'github repo'],
                     ['https://github.com/xxpasswd?tab=stars','github stars'],
                     ['http://www.pythontip.com/','python Tip'],
                     ['https://note.youdao.com/','有道云笔记']
